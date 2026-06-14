@@ -7,6 +7,6 @@ This repository contains the code for training an agent to navigate through a si
 
 | Fixed Obstacle | Random Obstacle |
 |:-:|:-:|
-| <video src="https://github.com/user-attachments/assets/07860864-9cc8-43aa-9d6d-5eeb6f28334c" controls width="300"></video> | <video src="https://github.com/user-attachments/assets/a98c96b2-419d-48d2-90ff-b6af7a7b702c" controls width="300"></video> |
+| <video src="https://github.com/user-attachments/assets/07860864-9cc8-43aa-9d6d-5eeb6f28334c" controls width="300" height="200"></video> | <video src="https://github.com/user-attachments/assets/a98c96b2-419d-48d2-90ff-b6af7a7b702c" controls width="300" height="200"></video> |
 
 ---
