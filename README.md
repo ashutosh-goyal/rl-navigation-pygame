@@ -9,6 +9,6 @@ https://github.com/user-attachments/assets/322a86e5-7ba2-4d1d-a4ae-a5d97deb1f0e
 
 | Fixed Obstacle | Random Obstacle |
 |:-:|:-:|
-| <video src="https://github.com/user-attachments/assets/322a86e5-7ba2-4d1d-a4ae-a5d97deb1f0e" controls width="300"></video> | <video src="https://github.com/user-attachments/assets/2410a5a1-38b3-4cd5-89cd-6041cecbf61f" controls width="300"></video> |
+| <video src="https://github.com/user-attachments/assets/07860864-9cc8-43aa-9d6d-5eeb6f28334c" controls width="300"></video> | <video src="https://github.com/user-attachments/assets/2410a5a1-38b3-4cd5-89cd-6041cecbf61f" controls width="300"></video> |
 
 ---
