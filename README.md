@@ -1,7 +1,10 @@
 # Exploring the Potential of the PPO Reinforcement Learning Algorithm for Efficient Navigation with Obstacle Avoidance
-This repository contains the code for training an agent to navigate through a simulated environment toward a designated target while avoiding dynamic obstacles. The aim of this project is to explore the effectiveness of reinforcement learning techniques in solving navigation tasks. We aim to investigate how well the agent can learn to navigate.
 
-- Please refer to main.pdf for a detailed explanation of the project and its implementation.
+This repository contains the code for training a reinforcement learning agent to navigate through a simulated environment toward a target while avoiding obstacles. The agent is trained using the PPO (Proximal Policy Optimization) algorithm via Stable-Baselines3, with a custom environment built using OpenAI Gym and Pygame for rendering.
+
+The project covers both discrete and continuous action/observation spaces. In the discrete setting, the agent achieved 100% success rate across randomized scenarios. The continuous setting introduced additional complexity around action smoothness and hyperparameter tuning, which is discussed in detail in the report.
+
+For a detailed explanation of the project and its implementation, please refer to `main.pdf`.
 
 ## 📽️ Demo
 
